@@ -140,3 +140,4 @@ export const messages = [
     __v: 0,
   },
 ];
+// this is a commented code , that explains  how we have esigned this project , this project mainly comprises of backend andd frontend to cater a better live chatty applications , utilized technologies such as aws to host this prkk=oject

@@ -142,7 +142,7 @@ function SideDrawer() {
           </Button>
         </Tooltip>
         <Text fontSize="2xl" fontFamily="Work sans">
-          LIVECHATTI
+          ChatSphere
         </Text>
         <div>
           <Menu>
